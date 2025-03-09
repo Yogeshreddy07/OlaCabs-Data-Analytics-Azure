@@ -1,0 +1,17 @@
+Variable,Description
+booking id,Booking Id
+booking_date_time,When the booking was made
+gender,customer gender
+month,Month of booking 
+day_of_week,Day of week of booking
+time_of_day,Time of day when the booking was made
+distance_travelled,The distance travelled
+time_taken,How long the trip lasted
+Reason,Reason of travel
+toll,How much was charged for toll?
+categorgy,What type of cab was booked 
+"commission_base_cost	",Commission fare of the trip
+driver_base_cost,Driver fare of the trip
+total_tax,Total tax paid as part of the trip
+total_trip_cost,Total trip cost
+ratings,Trip Ratings 
