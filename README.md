@@ -1,5 +1,3 @@
-# README.md
-
 ## Ola Cabs Data Pipeline with Azure
 
 ### 🚀 Project Overview
