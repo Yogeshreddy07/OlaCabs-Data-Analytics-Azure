@@ -80,5 +80,4 @@ The business wants to better understand ride demand and pricing behavior to impr
 
 This project provides a complete end-to-end solution for analyzing Ola Cabs ride data, helping the business optimize services through real-time, data-driven insights. The automated pipeline ensures that stakeholders always have access to the latest metrics, improving strategic decision-making.
 
-🚀 Let me know if you'd like me to refine this further or add any details! 🛠️
 
