@@ -1,8 +1,8 @@
-## Ola Cabs Data Pipeline with Azure
+## Taxi Data Pipeline with Azure
 
 ### 🚀 Project Overview
 
-This project addresses a critical business need by building a comprehensive data pipeline on Azure to analyze Ola Cabs ride data. The goal is to ingest ride and trip data from GitHub, transform it in the cloud, and generate actionable insights through a Power BI dashboard. The dashboard will highlight key performance indicators (KPIs) related to ride demand, fare patterns, and location-based trends, allowing stakeholders to filter and analyze data by date, location, and ride type.
+This project addresses a critical business need by building a comprehensive data pipeline on Azure to analyze Taxi ride data. The goal is to ingest ride and trip data from GitHub, transform it in the cloud, and generate actionable insights through a Power BI dashboard. The dashboard will highlight key performance indicators (KPIs) related to ride demand, fare patterns, and location-based trends, allowing stakeholders to filter and analyze data by date, location, and ride type.
 
 ### 📊 Business Requirements
 The business wants to better understand ride demand and pricing behavior to improve service allocation and pricing strategies. The key requirements include:
@@ -40,7 +40,7 @@ The business wants to better understand ride demand and pricing behavior to impr
 
 #### Prerequisites
 - An Azure account with sufficient credits.
-- Access to the Ola Cabs dataset on GitHub.
+- Access to the taxi dataset on GitHub.
 
 #### Step 1: Azure Environment Setup
 1. **Create a Resource Group:** Set up a new resource group in Azure.
@@ -51,7 +51,7 @@ The business wants to better understand ride demand and pricing behavior to impr
    - Azure Key Vault for secret management.
 
 #### Step 2: Data Ingestion
-1. **Clone the Dataset:** Clone the Ola Cabs dataset from GitHub.
+1. **Clone the Dataset:** Clone the taxi dataset from GitHub.
 2. **Ingest Data with ADF:** Create ADF pipelines to copy data from GitHub to the bronze layer in ADLS.
 
 #### Step 3: Data Transformation
@@ -76,6 +76,6 @@ The business wants to better understand ride demand and pricing behavior to impr
 
 ### 📘 Conclusion
 
-This project provides a complete end-to-end solution for analyzing Ola Cabs ride data, helping the business optimize services through real-time, data-driven insights. The automated pipeline ensures that stakeholders always have access to the latest metrics, improving strategic decision-making.
+This project provides a complete end-to-end solution for analyzing Taxi ride data, helping the business optimize services through real-time, data-driven insights. The automated pipeline ensures that stakeholders always have access to the latest metrics, improving strategic decision-making.
 
 
